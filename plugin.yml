@@ -1,0 +1,23 @@
+name: HardcorePlus
+version: 1.0
+main: com.hardcoreplus.bluenatural
+author: BlueNatural
+website: github.com/bluenatural
+
+commands:
+  hardcoreplus:
+    description: Show all commands of HardcorePlus
+    usage: /<command>
+    aliases: hp
+
+permissions:
+  hp.help:
+    description: Nothing
+  hp.sethealth:
+    description: Nothing
+  hp.turnon:
+    description: Nothing
+  hp.turnoff:
+    description: Nothing
+  hp.reload:
+    description: Nothing
