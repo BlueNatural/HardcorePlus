@@ -1,0 +1,40 @@
+####################################################################
+#Name: HardcorePlus 
+#Version: 1.0
+#Requirement: No
+#Wiki: github.com/bluenatural
+#Author: BlueNatural
+####################################################################
+
+prefix: '&f&l[&4Hardcore&ePlus&f&l] &a>'
+
+message.enable: true
+message.notify-message: '&cThe unluck will be appeared !'
+message.good-position: '&aFortunately ! You have been spawned a good position'
+message.bad-position: '&4Unfortunately ! You were spawned a bad position '
+message.lucky-food: '&aFortunately ! You have been eaten good food.So you get a good effect potion'
+message.rotten-food: '&4Unluckily ! You have been eaten bad food.So you have gotten effect potion'
+message.world-morning: '&aGood morning ! Have a nice day !'
+message.world-evening: '&dThe time is night ! You should have precaution to protect yourself'
+message.player-isnt-online: '&cThis player is not online now !'
+message.player-was-died: '&cThis player is died now !'
+message.reload: '&aReload completely !'
+message.not-permission: '&cYou dont have permission to do that !'
+
+sound.enable: true
+sound.good-position: ENTITY_PLAYER_LEVELUP
+sound.unlucky-position: ENTITY_CREEPER_DEATH
+sound.lucky-food: ENTITY_PLAYER_LEVELUP
+sound.bad-food: ENTITY_ZOMBIE_STEP
+sound.reload: ENTITY_PLAYER_LEVELUP
+
+Default-Percent: 100
+#Dont edit it
+Random-Percent-Luck-Respawn: 50
+Random-Percent-Food-Lucky: 50
+
+cooldown-bomb: 10
+
+cooldown-spawning: 10
+
+aim-world: 'world'
