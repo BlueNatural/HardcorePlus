@@ -1,6 +1,6 @@
 name: HardcorePlus
 version: 1.0
-main: com.hardcoreplus.bluenatural
+main: com.hardcoreplus.bluenatural.HardcorePlus
 author: BlueNatural
 website: github.com/bluenatural
 
